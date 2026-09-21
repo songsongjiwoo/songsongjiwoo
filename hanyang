@@ -1,18 +1,14 @@
-commit 4: "modify a.md"
+commit 5: "delete b.md"
 
   structure: 
   oss/ 
       a.md
-      b.md
       c.md
 
   files:
 #a.md
 hanyang
 university
-
-#b.md
-cat
 
 #c.md
 red
